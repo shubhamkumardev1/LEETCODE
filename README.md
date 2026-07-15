@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/shubhamkumardev1/LEETCODE/tree/master/0035-search-insert-position) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/shubhamkumardev1/LEETCODE/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Binary Search
 |  |
 | ------- |
